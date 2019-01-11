@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\bin\Debug\1006_Media2.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\bin\Debug\1006_Media2.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\bin\Debug\1006_Media2.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\obj\Debug\1006_Media2.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\obj\Debug\1006_Media2.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\obj\Debug\1006_Media2.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1006_Media2\obj\Debug\1006_Media2.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1006_Media2\bin\Debug\1006_Media2.exe.config
+C:\development\ExerciciosURI\1006_Media2\bin\Debug\1006_Media2.exe
+C:\development\ExerciciosURI\1006_Media2\bin\Debug\1006_Media2.pdb
+C:\development\ExerciciosURI\1006_Media2\obj\Debug\1006_Media2.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1006_Media2\obj\Debug\1006_Media2.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1006_Media2\obj\Debug\1006_Media2.exe
+C:\development\ExerciciosURI\1006_Media2\obj\Debug\1006_Media2.pdb

@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\bin\Debug\1015_Distancia_Entre_Pontos.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\bin\Debug\1015_Distancia_Entre_Pontos.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\bin\Debug\1015_Distancia_Entre_Pontos.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.csprojAssemblyReference.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.pdb
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\bin\Debug\1015_Distancia_Entre_Pontos.exe.config
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\bin\Debug\1015_Distancia_Entre_Pontos.exe
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\bin\Debug\1015_Distancia_Entre_Pontos.pdb
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.exe
+C:\development\ExerciciosURI\1015_Distancia_Entre_Pontos\obj\Debug\1015_Distancia_Entre_Pontos.pdb

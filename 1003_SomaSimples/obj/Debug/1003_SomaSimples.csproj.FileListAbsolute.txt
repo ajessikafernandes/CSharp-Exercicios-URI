@@ -1,0 +1,7 @@
+C:\development\ExerciciosURI\1003_SomaSimples\bin\Debug\1003_SomaSimples.exe.config
+C:\development\ExerciciosURI\1003_SomaSimples\bin\Debug\1003_SomaSimples.exe
+C:\development\ExerciciosURI\1003_SomaSimples\bin\Debug\1003_SomaSimples.pdb
+C:\development\ExerciciosURI\1003_SomaSimples\obj\Debug\1003_SomaSimples.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1003_SomaSimples\obj\Debug\1003_SomaSimples.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1003_SomaSimples\obj\Debug\1003_SomaSimples.exe
+C:\development\ExerciciosURI\1003_SomaSimples\obj\Debug\1003_SomaSimples.pdb

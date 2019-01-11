@@ -1,0 +1,22 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.deps.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.runtimeconfig.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.runtimeconfig.dev.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.dll
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.csprojAssemblyReference.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.AssemblyInfoInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.AssemblyInfo.cs
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.dll
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.pdb
+C:\development\ExerciciosURI\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.deps.json
+C:\development\ExerciciosURI\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.runtimeconfig.json
+C:\development\ExerciciosURI\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.runtimeconfig.dev.json
+C:\development\ExerciciosURI\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.dll
+C:\development\ExerciciosURI\1018_Cedulas\bin\Debug\netcoreapp2.1\1018_Cedulas.pdb
+C:\development\ExerciciosURI\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.AssemblyInfoInputs.cache
+C:\development\ExerciciosURI\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.AssemblyInfo.cs
+C:\development\ExerciciosURI\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.dll
+C:\development\ExerciciosURI\1018_Cedulas\obj\Debug\netcoreapp2.1\1018_Cedulas.pdb

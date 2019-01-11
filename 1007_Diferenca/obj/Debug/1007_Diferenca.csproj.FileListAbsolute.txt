@@ -1,0 +1,7 @@
+C:\development\ExerciciosURI\1007_Diferenca\bin\Debug\1007_Diferenca.exe.config
+C:\development\ExerciciosURI\1007_Diferenca\bin\Debug\1007_Diferenca.exe
+C:\development\ExerciciosURI\1007_Diferenca\bin\Debug\1007_Diferenca.pdb
+C:\development\ExerciciosURI\1007_Diferenca\obj\Debug\1007_Diferenca.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1007_Diferenca\obj\Debug\1007_Diferenca.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1007_Diferenca\obj\Debug\1007_Diferenca.exe
+C:\development\ExerciciosURI\1007_Diferenca\obj\Debug\1007_Diferenca.pdb

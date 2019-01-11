@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\bin\Debug\1016_Distancia.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\bin\Debug\1016_Distancia.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\bin\Debug\1016_Distancia.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\obj\Debug\1016_Distancia.csprojAssemblyReference.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\obj\Debug\1016_Distancia.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\obj\Debug\1016_Distancia.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1016_Distancia\obj\Debug\1016_Distancia.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\bin\Debug\1016_Distancia.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\bin\Debug\1016_Distancia.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\bin\Debug\1016_Distancia.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\obj\Debug\1016_Distancia.csprojAssemblyReference.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\obj\Debug\1016_Distancia.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\obj\Debug\1016_Distancia.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1016_Distancia\obj\Debug\1016_Distancia.pdb

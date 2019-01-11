@@ -1,0 +1,7 @@
+C:\development\ExerciciosURI\1004_ProdutoSimples\bin\Debug\1004_ProdutoSimples.exe.config
+C:\development\ExerciciosURI\1004_ProdutoSimples\bin\Debug\1004_ProdutoSimples.exe
+C:\development\ExerciciosURI\1004_ProdutoSimples\bin\Debug\1004_ProdutoSimples.pdb
+C:\development\ExerciciosURI\1004_ProdutoSimples\obj\Debug\1004_ProdutoSimples.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1004_ProdutoSimples\obj\Debug\1004_ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1004_ProdutoSimples\obj\Debug\1004_ProdutoSimples.exe
+C:\development\ExerciciosURI\1004_ProdutoSimples\obj\Debug\1004_ProdutoSimples.pdb

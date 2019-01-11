@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\development\\ExerciciosURI\\1016_Distancia\\1016_Distancia.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

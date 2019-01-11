@@ -1,0 +1,11 @@
+C:\development\ExerciciosURI\1002_AreaCirculo\bin\Debug\netcoreapp2.1\1002_AreaCirculo.deps.json
+C:\development\ExerciciosURI\1002_AreaCirculo\bin\Debug\netcoreapp2.1\1002_AreaCirculo.runtimeconfig.json
+C:\development\ExerciciosURI\1002_AreaCirculo\bin\Debug\netcoreapp2.1\1002_AreaCirculo.runtimeconfig.dev.json
+C:\development\ExerciciosURI\1002_AreaCirculo\bin\Debug\netcoreapp2.1\1002_AreaCirculo.dll
+C:\development\ExerciciosURI\1002_AreaCirculo\bin\Debug\netcoreapp2.1\1002_AreaCirculo.pdb
+C:\development\ExerciciosURI\1002_AreaCirculo\obj\Debug\netcoreapp2.1\1002_AreaCirculo.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1002_AreaCirculo\obj\Debug\netcoreapp2.1\1002_AreaCirculo.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1002_AreaCirculo\obj\Debug\netcoreapp2.1\1002_AreaCirculo.AssemblyInfoInputs.cache
+C:\development\ExerciciosURI\1002_AreaCirculo\obj\Debug\netcoreapp2.1\1002_AreaCirculo.AssemblyInfo.cs
+C:\development\ExerciciosURI\1002_AreaCirculo\obj\Debug\netcoreapp2.1\1002_AreaCirculo.dll
+C:\development\ExerciciosURI\1002_AreaCirculo\obj\Debug\netcoreapp2.1\1002_AreaCirculo.pdb

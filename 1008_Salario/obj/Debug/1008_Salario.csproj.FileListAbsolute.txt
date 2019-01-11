@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\bin\Debug\1008_Salario.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\bin\Debug\1008_Salario.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\bin\Debug\1008_Salario.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\obj\Debug\1008_Salario.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\obj\Debug\1008_Salario.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\obj\Debug\1008_Salario.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1008_Salario\obj\Debug\1008_Salario.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1008_Salario\bin\Debug\1008_Salario.exe.config
+C:\development\ExerciciosURI\1008_Salario\bin\Debug\1008_Salario.exe
+C:\development\ExerciciosURI\1008_Salario\bin\Debug\1008_Salario.pdb
+C:\development\ExerciciosURI\1008_Salario\obj\Debug\1008_Salario.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1008_Salario\obj\Debug\1008_Salario.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1008_Salario\obj\Debug\1008_Salario.exe
+C:\development\ExerciciosURI\1008_Salario\obj\Debug\1008_Salario.pdb

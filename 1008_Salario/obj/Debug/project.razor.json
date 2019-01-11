@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\development\\ExerciciosURI\\1008_Salario\\1008_Salario.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

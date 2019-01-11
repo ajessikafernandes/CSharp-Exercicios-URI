@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\obj\Debug\1012_Area.csprojAssemblyReference.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\obj\Debug\1012_Area.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\bin\Debug\1012_Area.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\bin\Debug\1012_Area.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\bin\Debug\1012_Area.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\obj\Debug\1012_Area.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1012_Area\obj\Debug\1012_Area.pdb
+C:\development\ExerciciosURI\1012_Area\bin\Debug\1012_Area.exe.config
+C:\development\ExerciciosURI\1012_Area\bin\Debug\1012_Area.exe
+C:\development\ExerciciosURI\1012_Area\bin\Debug\1012_Area.pdb
+C:\development\ExerciciosURI\1012_Area\obj\Debug\1012_Area.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1012_Area\obj\Debug\1012_Area.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1012_Area\obj\Debug\1012_Area.exe
+C:\development\ExerciciosURI\1012_Area\obj\Debug\1012_Area.pdb

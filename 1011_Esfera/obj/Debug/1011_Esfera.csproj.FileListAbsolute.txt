@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\bin\Debug\1011_Esfera.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\bin\Debug\1011_Esfera.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\bin\Debug\1011_Esfera.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\obj\Debug\1011_Esfera.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\obj\Debug\1011_Esfera.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\obj\Debug\1011_Esfera.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1011_Esfera\obj\Debug\1011_Esfera.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1011_Esfera\bin\Debug\1011_Esfera.exe.config
+C:\development\ExerciciosURI\1011_Esfera\bin\Debug\1011_Esfera.exe
+C:\development\ExerciciosURI\1011_Esfera\bin\Debug\1011_Esfera.pdb
+C:\development\ExerciciosURI\1011_Esfera\obj\Debug\1011_Esfera.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1011_Esfera\obj\Debug\1011_Esfera.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1011_Esfera\obj\Debug\1011_Esfera.exe
+C:\development\ExerciciosURI\1011_Esfera\obj\Debug\1011_Esfera.pdb

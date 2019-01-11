@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\bin\Debug\1009_Salario_com_Bonus.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\bin\Debug\1009_Salario_com_Bonus.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\bin\Debug\1009_Salario_com_Bonus.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\bin\Debug\1009_Salario_com_Bonus.exe.config
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\bin\Debug\1009_Salario_com_Bonus.exe
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\bin\Debug\1009_Salario_com_Bonus.pdb
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.exe
+C:\development\ExerciciosURI\1009_Salario_com_Bonus\obj\Debug\1009_Salario_com_Bonus.pdb

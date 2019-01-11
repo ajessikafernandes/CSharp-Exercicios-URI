@@ -1,0 +1,21 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.deps.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.runtimeconfig.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.runtimeconfig.dev.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.dll
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.AssemblyInfoInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.AssemblyInfo.cs
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.dll
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.pdb
+C:\development\ExerciciosURI\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.deps.json
+C:\development\ExerciciosURI\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.runtimeconfig.json
+C:\development\ExerciciosURI\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.runtimeconfig.dev.json
+C:\development\ExerciciosURI\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.dll
+C:\development\ExerciciosURI\1017_GastoCombustivel\bin\Debug\netcoreapp2.1\1017_GastoCombustivel.pdb
+C:\development\ExerciciosURI\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.AssemblyInfoInputs.cache
+C:\development\ExerciciosURI\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.AssemblyInfo.cs
+C:\development\ExerciciosURI\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.dll
+C:\development\ExerciciosURI\1017_GastoCombustivel\obj\Debug\netcoreapp2.1\1017_GastoCombustivel.pdb

@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\bin\Debug\1010_CalculoSimples.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\bin\Debug\1010_CalculoSimples.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\bin\Debug\1010_CalculoSimples.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1010_CalculoSimples\bin\Debug\1010_CalculoSimples.exe.config
+C:\development\ExerciciosURI\1010_CalculoSimples\bin\Debug\1010_CalculoSimples.exe
+C:\development\ExerciciosURI\1010_CalculoSimples\bin\Debug\1010_CalculoSimples.pdb
+C:\development\ExerciciosURI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.exe
+C:\development\ExerciciosURI\1010_CalculoSimples\obj\Debug\1010_CalculoSimples.pdb

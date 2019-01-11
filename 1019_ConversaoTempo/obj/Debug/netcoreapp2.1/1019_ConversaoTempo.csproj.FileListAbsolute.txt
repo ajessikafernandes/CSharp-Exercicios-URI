@@ -1,0 +1,22 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.deps.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.runtimeconfig.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.runtimeconfig.dev.json
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.dll
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.AssemblyInfoInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.AssemblyInfo.cs
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.dll
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI - Copia\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.deps.json
+C:\development\ExerciciosURI\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.runtimeconfig.json
+C:\development\ExerciciosURI\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.runtimeconfig.dev.json
+C:\development\ExerciciosURI\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.dll
+C:\development\ExerciciosURI\1019_ConversaoTempo\bin\Debug\netcoreapp2.1\1019_ConversaoTempo.pdb
+C:\development\ExerciciosURI\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.AssemblyInfoInputs.cache
+C:\development\ExerciciosURI\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.AssemblyInfo.cs
+C:\development\ExerciciosURI\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.dll
+C:\development\ExerciciosURI\1019_ConversaoTempo\obj\Debug\netcoreapp2.1\1019_ConversaoTempo.pdb

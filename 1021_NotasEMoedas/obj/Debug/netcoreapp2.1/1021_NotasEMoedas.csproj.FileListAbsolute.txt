@@ -1,0 +1,11 @@
+C:\development\ExerciciosURI\1021_NotasEMoedas\bin\Debug\netcoreapp2.1\1021_NotasEMoedas.deps.json
+C:\development\ExerciciosURI\1021_NotasEMoedas\bin\Debug\netcoreapp2.1\1021_NotasEMoedas.runtimeconfig.json
+C:\development\ExerciciosURI\1021_NotasEMoedas\bin\Debug\netcoreapp2.1\1021_NotasEMoedas.runtimeconfig.dev.json
+C:\development\ExerciciosURI\1021_NotasEMoedas\bin\Debug\netcoreapp2.1\1021_NotasEMoedas.dll
+C:\development\ExerciciosURI\1021_NotasEMoedas\bin\Debug\netcoreapp2.1\1021_NotasEMoedas.pdb
+C:\development\ExerciciosURI\1021_NotasEMoedas\obj\Debug\netcoreapp2.1\1021_NotasEMoedas.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1021_NotasEMoedas\obj\Debug\netcoreapp2.1\1021_NotasEMoedas.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1021_NotasEMoedas\obj\Debug\netcoreapp2.1\1021_NotasEMoedas.AssemblyInfoInputs.cache
+C:\development\ExerciciosURI\1021_NotasEMoedas\obj\Debug\netcoreapp2.1\1021_NotasEMoedas.AssemblyInfo.cs
+C:\development\ExerciciosURI\1021_NotasEMoedas\obj\Debug\netcoreapp2.1\1021_NotasEMoedas.dll
+C:\development\ExerciciosURI\1021_NotasEMoedas\obj\Debug\netcoreapp2.1\1021_NotasEMoedas.pdb

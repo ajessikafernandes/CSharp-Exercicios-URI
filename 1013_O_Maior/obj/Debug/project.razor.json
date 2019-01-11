@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\development\\ExerciciosURI\\1013_O_Maior\\1013_O_Maior.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

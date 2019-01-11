@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\bin\Debug\1014_Consumo.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\bin\Debug\1014_Consumo.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\bin\Debug\1014_Consumo.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\obj\Debug\1014_Consumo.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\obj\Debug\1014_Consumo.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\obj\Debug\1014_Consumo.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1014_Consumo\obj\Debug\1014_Consumo.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1014_Consumo\bin\Debug\1014_Consumo.exe.config
+C:\development\ExerciciosURI\1014_Consumo\bin\Debug\1014_Consumo.exe
+C:\development\ExerciciosURI\1014_Consumo\bin\Debug\1014_Consumo.pdb
+C:\development\ExerciciosURI\1014_Consumo\obj\Debug\1014_Consumo.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1014_Consumo\obj\Debug\1014_Consumo.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1014_Consumo\obj\Debug\1014_Consumo.exe
+C:\development\ExerciciosURI\1014_Consumo\obj\Debug\1014_Consumo.pdb

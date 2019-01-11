@@ -1,0 +1,7 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\bin\Debug\Exercicios_URI.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\bin\Debug\Exercicios_URI.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\bin\Debug\Exercicios_URI.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\obj\Debug\Exercicios_URI.csprojAssemblyReference.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\obj\Debug\Exercicios_URI.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\obj\Debug\Exercicios_URI.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\Exercicios_URI\obj\Debug\Exercicios_URI.pdb

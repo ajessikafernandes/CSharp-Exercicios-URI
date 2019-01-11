@@ -1,0 +1,11 @@
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\bin\Debug\netcoreapp2.1\1001_ExtremamenteBasico.deps.json
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\bin\Debug\netcoreapp2.1\1001_ExtremamenteBasico.runtimeconfig.json
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\bin\Debug\netcoreapp2.1\1001_ExtremamenteBasico.runtimeconfig.dev.json
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\bin\Debug\netcoreapp2.1\1001_ExtremamenteBasico.dll
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\bin\Debug\netcoreapp2.1\1001_ExtremamenteBasico.pdb
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\obj\Debug\netcoreapp2.1\1001_ExtremamenteBasico.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\obj\Debug\netcoreapp2.1\1001_ExtremamenteBasico.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\obj\Debug\netcoreapp2.1\1001_ExtremamenteBasico.AssemblyInfoInputs.cache
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\obj\Debug\netcoreapp2.1\1001_ExtremamenteBasico.AssemblyInfo.cs
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\obj\Debug\netcoreapp2.1\1001_ExtremamenteBasico.dll
+C:\development\ExerciciosURI\1001_ExtremamenteBasico\obj\Debug\netcoreapp2.1\1001_ExtremamenteBasico.pdb

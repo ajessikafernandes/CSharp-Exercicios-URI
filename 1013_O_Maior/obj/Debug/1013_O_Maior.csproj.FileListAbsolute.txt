@@ -1,0 +1,14 @@
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\bin\Debug\1013_O_Maior.exe.config
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\bin\Debug\1013_O_Maior.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\bin\Debug\1013_O_Maior.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\obj\Debug\1013_O_Maior.csproj.CoreCompileInputs.cache
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\obj\Debug\1013_O_Maior.exe
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\obj\Debug\1013_O_Maior.pdb
+C:\Users\jessika.fernandes\Desktop\Exercicios_URI\1013_O_Maior\obj\Debug\1013_O_Maior.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1013_O_Maior\bin\Debug\1013_O_Maior.exe.config
+C:\development\ExerciciosURI\1013_O_Maior\bin\Debug\1013_O_Maior.exe
+C:\development\ExerciciosURI\1013_O_Maior\bin\Debug\1013_O_Maior.pdb
+C:\development\ExerciciosURI\1013_O_Maior\obj\Debug\1013_O_Maior.csprojAssemblyReference.cache
+C:\development\ExerciciosURI\1013_O_Maior\obj\Debug\1013_O_Maior.csproj.CoreCompileInputs.cache
+C:\development\ExerciciosURI\1013_O_Maior\obj\Debug\1013_O_Maior.exe
+C:\development\ExerciciosURI\1013_O_Maior\obj\Debug\1013_O_Maior.pdb
